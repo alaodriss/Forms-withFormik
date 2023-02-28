@@ -1,0 +1,14 @@
+.forms {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 0;
+    justify-content: space-around;
+    width: 388px;
+}
+
+
+.forms > .control-form{
+    padding:  10px;
+    margin: 10px;
+    border: 1px solid #014751;
+}
